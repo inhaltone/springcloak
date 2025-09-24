@@ -10,7 +10,7 @@ spring:
           jwk-set-uri: http://localhost:9090/realms/gendy/protocol/openid-connect/certs
 
 server:
-  port: 8081
+  port: 8080
 
 logging:
   level:
